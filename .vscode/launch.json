@@ -15,6 +15,7 @@
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_basic_variable_assignment.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_beginner_lost_without_a_map.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_grasshopper_personalized_message.ts",
+            //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_leonardo_dicaprio_and_oscars.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_opposites_attract.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_string_templates_bug_fixing_5.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_stringy_strings.ts",
@@ -22,7 +23,8 @@
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_the_wide_mouthed_frog.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_transportation_on_vacation.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_well_of_ideas_easy_version.ts",
-            "program": "${workspaceFolder}\\CodeWars\\src\\b_7kyu_reverse_words.ts",
+            "program": "${workspaceFolder}\\CodeWars\\src\\a_8kyu_whats_the_real_floor.ts",
+            //"program": "${workspaceFolder}\\CodeWars\\src\\b_7kyu_reverse_words.ts",
             //"program": "${workspaceFolder}\\CodeWars\\src\\e_4kyu_snail.ts",            
             "preLaunchTask": "tsc: build - CodeWars/tsconfig.json",
             "outFiles": [

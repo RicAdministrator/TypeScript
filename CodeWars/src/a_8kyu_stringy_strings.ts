@@ -1,14 +1,10 @@
 // https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/typescript
 
-const stringy = (n: number): string =>
-{
-    let output: string  = "";
+import { stringy } from "./a_8kyu_stringy_strings_module";
 
-    for (let x: number = 1; x <= n; x++) {
-        output += x % 2 === 0 ? "0" : "1";
-    }
+a_8kyu_stringy_strings();
 
-    return output;
-};
-
-console.log(stringy);
+function a_8kyu_stringy_strings(): void {
+    let a = stringy(3); // 101
+    console.log(a);
+}
