@@ -1,0 +1,16 @@
+Mosh Tutorial
+https://www.youtube.com/watch?v=d56mG7DezGs&t=1017s
+
+Create a new ts file, see format of other ts files
+Add breakpoints on the new ts file
+
+Include new ts file in launch.JSON
+Only one ts file can be debuged
+
+Go to the new ts file
+Launch Program (F5)
+
+Go to DEBUG CONSOLE
+
+
+
